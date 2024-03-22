@@ -13,6 +13,7 @@ public class MixedMessages {
 		
 			System.out.print(x + "" + y +" ");
 			x = x + 1;
+			System.out.print("code is looking good");
 			}
 			}
 			}
